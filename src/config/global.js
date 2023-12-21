@@ -62,7 +62,7 @@ export default {
           {
             numero: '1.5',
             titulo:
-              'Herramientas digitales se pueden utilizar para la elaboración de la bitácora',
+              'Herramientas digitales que se pueden utilizar para la elaboración de la bitácora',
             hash: 't_1_5',
           },
           {

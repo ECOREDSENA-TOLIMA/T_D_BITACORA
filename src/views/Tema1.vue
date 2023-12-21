@@ -115,7 +115,7 @@
 
     separador
     .titulo-segundo.color-acento-contenido
-      h2#t_1_5 1.5 Herramientas digitales se pueden utilizar para la elaboración de la bitácora
+      h2#t_1_5 1.5 Herramientas digitales que se pueden utilizar para la elaboración de la bitácora
     
     ol.lista-ol--cuadro
         li 
